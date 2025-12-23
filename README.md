@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 I'm Agustaya, a computer engineering student based in Chicago. I'm interested in applied engineering projects, especially ones related to vehicles.
 
 I'm currently a circuitry subteam member working on creating the PDM (Power Distribution Module) for the UIC SAE Formula E racecar.
